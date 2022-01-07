@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Sample 11
+  m_Shader: {fileID: 4800000, guid: c29bdff6b5c71ed479dc287c1f68e34a, type: 3}
+  m_ShaderKeywords: _SYNC_OBJECT_SCALE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - _Brightness: 1
+    - _Hue: 0.721
+    - _Hue_Range: 0.046
+    - _Hue_Shift: 0.694
+    - _Hue_Shift_Speed: 0
+    - _Line_Color_Shift: 0.02
+    - _Line_Size: 0.001
+    - _RemoveDiag: 0
+    - _Saturation: 1
+    - _Scale: 0.01
+    - _Size: 0.001
+    - _Speed: 0.01
+    - _Sync_Object_Scale: 1
+    - _Tessellation: 1
+    - _WireframeVal: 0.05
+    - _index: 7.52
+    - rc: 23
+    - rd: 0
+    - rm: 0.38
+    - ro: 6.54
+    - rr: 1
+    - rz: 16
+    m_Colors:
+    - _BackColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _FrontColor: {r: 1, g: 1, b: 1, a: 1}
